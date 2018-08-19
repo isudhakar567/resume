@@ -1,0 +1,60 @@
+{
+	"details":{
+		"image":"profile.png",
+		"name":"gowthami",
+		"phoneno":"+91-8234567812",
+		"email":"gowthamikavya99@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"to become a good software engineer"
+	},
+	"education":[
+		{
+			"qualification":"b.tech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"percentage":"98%"
+		},
+		{
+			"qualification":"inter",
+			"institute":"narayana junior college",
+			"year":"2014-2016",
+			"percentage":"90%"
+		},
+		{
+			"qualification":"tenth",
+			"institute":"vikas public school",
+			"year":"2014",
+			"percentage":"87%"
+		}
+
+
+	],
+	"technicalskills" :[
+		{
+			"title":"programming languages",
+			"info":["c","c++","java","python","ruby"]
+		},
+		{
+			"title":"databaces",
+			"info" : ["sql","mysql"]
+		},
+		{
+			"title" : "operating systems",
+			"info" : ["linux","windows","macos"]
+		}
+		
+	],
+	"achievements" :[
+
+		{
+			"title": "i got first rank in our college"
+		},
+		{
+			"title":"i got best student award"
+		}
+	]
+				
+}
+
